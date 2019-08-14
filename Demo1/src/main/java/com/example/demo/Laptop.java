@@ -1,6 +1,8 @@
 package com.example.demo;
 
 public class Laptop {
+	
+	zhbC jkzxn m  m 
 
 	private int lid;
 	private String brand;
