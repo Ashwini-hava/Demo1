@@ -9,7 +9,6 @@ public class Alien {
 
 	private int aid;
 	
-	xzcg hzkbvz m;
 	private String name;
 	private String tech;
 	@Autowired
