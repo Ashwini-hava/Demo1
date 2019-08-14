@@ -6,8 +6,7 @@ public class Laptop {
 	private String brand;
 	public int getLid() {
 		return lid;
-		
-		hzcsbjzs vnm 
+			
 	}
 	public void setLid(int lid) {
 		this.lid = lid;

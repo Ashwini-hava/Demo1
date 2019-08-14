@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 public class Alien {
 
 	private int aid;
-	zudhdjxjvnkxnv
+	
 	private String name;
 	private String tech;
 	@Autowired
