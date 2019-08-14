@@ -12,6 +12,8 @@ public class Demo1Application {
 		
 		Alien a = context.getBean(Alien.class);
 		a.show();
+		
+		zhxckzn vckznx
 	}
 	
 
